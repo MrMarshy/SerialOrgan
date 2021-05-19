@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": false,
+    //"cortex-debug.JLinkGDBServerPath": "C:\\Program Files (x86)\\SEGGER\\JLink\\JLinkGDBServerCL.exe",
+    //"cortex-debug.JLinkGDBServerPath": "/opt/SEGGER/JLink/JLinkGDBServerCLExe",
+    "cortex-debug.JLinkGDBServerPath": "/opt/st/stm32cubeide_1.0.1/plugins/com.st.stm32cube.ide.mcu.externaltools.jlink.linux64_1.3.0.202002181050/tools/bin/JLinkGDBServerCLExe",
+    "files.associations": {
+        "bsp.h": "c",
+        "boards.h": "c",
+        "adafruit_nrf52840.h": "c",
+        "app_uart.h": "c"
+    }
+}
